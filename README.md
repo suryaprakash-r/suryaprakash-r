@@ -24,6 +24,6 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/suryaprakash-r/)
+- LinkedIn: [Suryaprakash](https://www.linkedin.com/in/suryaprakash-r/)
 
 Feel free to reach out to me if you have any questions or would like to collaborate on projects!
